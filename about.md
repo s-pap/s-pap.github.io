@@ -4,10 +4,14 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  This site is still in progress. Check back for an updated version.
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+#Hi there
+I'm Sarah 👩‍💻
+I study computer engineering at Johns Hopkins University and in my free time I like to build cool things.
+This site will show off some of my projects. Enjoy@
+
 
 There are currently two themes built on Poole:
 
