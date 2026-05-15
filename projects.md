@@ -3,7 +3,9 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-
+<p class="message">
+  🚩 More projects to be added soon. 
+</p>
 Some things I've been working on:
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
