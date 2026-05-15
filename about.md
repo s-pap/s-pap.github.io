@@ -10,12 +10,16 @@ title: About
 # Hi there!
 I'm Sarah 👩‍💻  
 I study computer engineering at Johns Hopkins University, and in my free time, I like to build cool things.  
+
+---
+
 I'm particularly interested in:
 - Embedded Systems
 - Robotics
 - Internet of Things
 This site is a place for me to share some of my projects and things that I learn along the way. Enjoy!
 
+---
 
 ## Contact
 - Email: spap25000@gmail.com
