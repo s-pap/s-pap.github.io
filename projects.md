@@ -4,9 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# Archive
-
-Browse all posts by month and year.
+Some things I've been working on:
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
