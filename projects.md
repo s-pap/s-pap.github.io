@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Archive
+layout: page
+title: Projects
+permalink: /projects/
 ---
 
 # Archive
