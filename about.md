@@ -15,5 +15,4 @@ This site will show off some of my projects. Enjoy!
 
 ## Contact
 - Email: spap25000@gmail.com
-- LinkedIn: ```markdown
-[linkedin.com/in/sarah-papernik](https://www.linkedin.com/in/sarah-papernik/ )
+- LinkedIn: [linkedin.com/in/sarah-papernik](https://www.linkedin.com/in/sarah-papernik/ )
