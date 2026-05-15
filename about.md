@@ -4,12 +4,12 @@ title: About
 ---
 
 <p class="message">
-  This site is still in progress. Check back for an updated version.
+  🚩 This site is a continuous work in progress. Check back for updates. 🛠️
 </p>
 
 # Hi there!
 I'm Sarah 👩‍💻  
-I study computer engineering at Johns Hopkins University, and in my free time, I like to build cool things.  
+I study computer engineering at Johns Hopkins University, and in my free time, I like building cool things.
 
 ---
 
