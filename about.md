@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  🚩 This site is a continuous work in progress. Check back for updates. 🛠️
+  🚩 This site is a continuous work in progress. Check back for updates. 
 </p>
 
 # Hi there!
