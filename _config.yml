@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Sarah Papernik
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -32,7 +32,7 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
+  name: Sarah Papernik
   url: https://twitter.com/mdo
   email: markdotto@gmail.com
 
