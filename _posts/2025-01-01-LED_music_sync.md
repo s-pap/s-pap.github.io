@@ -11,6 +11,7 @@ A microphone captures audio input and then passes it through a series of filters
 
 ---
 ## Circuit Schematic
+![Alt Text]({{ "/assets/images/my-photo.jpg" | relative_url }})
 
 ---
 ## Built Circuit
