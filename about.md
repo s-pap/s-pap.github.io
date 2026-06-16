@@ -14,8 +14,8 @@ I study computer engineering at Johns Hopkins University, and in my free time, I
 ---
 
 I'm particularly interested in:
-- Embedded Systems
 - Robotics
+- Embedded Systems
 - Internet of Things  
 This site is a place for me to share some of my projects and things that I learn along the way. Enjoy!
 
