@@ -11,7 +11,7 @@ I am excited to dig deep into computer architecture. I will start at the gate le
 ---
 ## Getting Started
 It took me a fair amount of time to get setup/comfterable. First, I finally installed WSL (Windows Subsystem for Linux), something I probably should have done years ago. 
-Installing iVerilog and GTKWave was then quite easy. To get warmed up with Verilog, I started with the classic logic gates. The and gate was my first.
+Installing iVerilog and GTKWave was then quite easy. To get warmed up with Verilog, I started with the classic logic gates. The AND gate was my first.
 
 ```verilog
 module and_gate(
@@ -21,3 +21,6 @@ module and_gate(
     assign y =a&b;
 endmodule
 ```
+Each module needs a test bench file to test it. Then I can visualize the result in GTKWave
+<img width="686" height="119" alt="image" src="https://github.com/user-attachments/assets/8cc61584-c813-4ae7-9231-7ff8f209cb8b" />
+
