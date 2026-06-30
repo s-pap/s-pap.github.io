@@ -22,5 +22,5 @@ module and_gate(
 endmodule
 ```
 Each module needs a test bench file to test it. Then I can visualize the result in GTKWave
-<img width="686" height="119" alt="image" src="https://github.com/user-attachments/assets/8cc61584-c813-4ae7-9231-7ff8f209cb8b" />
+![Alt Text]({{ "/assets/GTK_AND.png" | relative_url }})
 
