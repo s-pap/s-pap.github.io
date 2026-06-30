@@ -5,7 +5,7 @@ title: Verilog CPU
 <p class="message">
   This is an active project! Tune in for updates 📢
 </p>
-Some things I've been working on:
+
 ## Motivation
 I spent a long time trying to come up with a summer project that motivated me. It was challenging to come up with a challenging but doable project. 
 I chose a Verilog-based project because of my interest in digital design. Digital Systems and Computer Systems have been some of my favorite college courses so far.
