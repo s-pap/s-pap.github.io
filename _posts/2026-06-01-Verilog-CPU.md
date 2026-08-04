@@ -31,7 +31,7 @@ Each module needs a test bench file to test it. Then I can visualize the result 
 ---
 ## Milestone 1: ALU
 I got myself a copy of Harris and Harris's "Digital Design and Computer Architecture" and have been using the ALU diagram as a reference.
-![Alt Text]({{ "/assets/ALU_diagram.png" | relative_url }})
+![Alt Text]({{ "/assets/alu_diagram.png" | relative_url }})
 
 After making the various Muxes (muxi?) and gates, I now have to assemble all the parts. It is at this stage that I  decided on a 4-bit system.
 Big enough to be somewhat interesting but not too overwhelming. 
