@@ -63,7 +63,8 @@
   --green-100: #e3ffbf;
 
   --bg-obsidian: #080a0f;
-
+   
+  --text-main: #e2e8f0;
 
 
   --body-font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif,
@@ -156,7 +157,7 @@
 
 [data-theme="dark-poole"] {
 
-  --body-color: var(--dark-poole-002);
+  --body-color: var(--text-main);
 
   --body-bg: var(--bg-obsidian);
 
