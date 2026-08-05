@@ -1,178 +1,99 @@
- :root {
-
+:root {
+  /* Grayscale Palette */
   --gray-000: #f8f9fa;
-
   --gray-100: #f1f3f5;
-
   --gray-200: #e9ecef;
-
   --gray-300: #dee2e6;
-
   --gray-400: #ced4da;
-
   --gray-500: #adb5bd;
-
   --gray-600: #868e96;
-
   --gray-700: #495057;
-
   --gray-800: #343a40;
-
   --gray-900: #212529;
 
-  --dark-poole-001: hsl(200, 3%, 12%);
-
-  --dark-poole-002: hsl(0, 0%, 85%);
-
-  --dark-poole-link-color: rgba(255, 255, 255, 0.75);
-   --link-color: #00f2fe;
-
-  --dark-poole-link-hover: #fff;
-
-
-
+  /* Accent Colors */
   --red: #fa5252;
-
   --pink: #e64980;
-
   --grape: #be4bdb;
-
   --purple: #7950f2;
-
   --indigo: #4c6ef5;
-
   --blue: #228be6;
-
   --cyan: #15aabf;
-
   --teal: #12b886;
-
   --green: #40c057;
-
   --yellow: #fab005;
-
   --orange: #fd7e14;
 
-
-
+  /* Accent Variants */
   --blue-300: #74c0fc;
-
   --blue-400: #4dabf7;
-
   --yellow-100: #fff3bf;
+  --neon-cyan: #00f2fe;
+  --neon-pink: #ff2e97;
+  --electric-teal: #00e5cc;
 
-  --green-100: #e3ffbf;
-
-  --bg-obsidian: #080a0f;
-   
+  /* Dark Theme Base */
+  --bg-obsidian: #0a0e17;
+  --bg-surface: #131820;
   --text-main: #e2e8f0;
-   
+  --text-muted: #94a3b8;
   --heading-glow: #ffffff;
+  --accent-primary: #00f2fe;
+  --accent-secondary: #00e5cc;
 
-
-  --body-font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif,
-
-    "Segoe UI", Roboto,
-
-    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
-
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-
+  /* Typography */
+  --body-font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   --body-font-size: 20px;
-
   --body-line-height: 1.5;
-
   --body-color: var(--gray-700);
-
   --body-bg: #fff;
 
-
-
+  /* Links */
   --link-color: var(--blue);
-
   --link-hover-color: #1c7ed6;
 
-
-
+  /* Headings */
   --heading-color: var(--gray-900);
 
-
-
+  /* Borders & Shapes */
   --border-color: var(--gray-300);
-
   --border-radius: 0.25rem;
 
-
-
-  --code-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
-
-    "Courier New", monospace;
-
+  /* Code */
+  --code-font: SFMono-Regular, Menlo, Monaco, Consolas, 
+    "Liberation Mono", "Courier New", monospace;
   --code-color: var(--grape);
-
   --code-bg: var(--gray-000);
 
-
-
+  /* Spacing */
   --spacer: 1rem;
-
   --spacer-2: calc(var(--spacer) * 1.5);
-
   --spacer-3: calc(var(--spacer) * 3);
-
 }
 
-
-
+/* System Dark Mode Preferences */
 @media (prefers-color-scheme: dark) {
-
   :root {
-
     --body-color: var(--gray-300);
-
     --body-bg: var(--gray-800);
-
-
-
     --heading-color: #fff;
-
-
-
     --link-color: var(--blue-300);
-
     --link-hover-color: var(--blue-400);
-
-
-
     --border-color: rgba(255, 255, 255, 0.15);
-
-
-
     --code-bg: var(--gray-900);
-
   }
-
 }
 
-
-
-// Dark Poole theme
-
+/* Dark Poole Theme - Futuristic Professional */
 [data-theme="dark-poole"] {
-
   --body-color: var(--text-main);
-
   --body-bg: var(--bg-obsidian);
-
   --heading-color: var(--heading-glow);
-
-  --link-color: var(--link-color);
-
-  --link-hover-color: var(--dark-poole-link-hover);
-
-  --border-color: rgba(255, 255, 255, 0.15);
-
-  --code-bg: var(--gray-900);
-
-} 
-
+  --link-color: var(--accent-primary);
+  --link-hover-color: var(--accent-secondary);
+  --border-color: rgba(0, 242, 254, 0.12);
+  --code-bg: var(--bg-surface);
+  --announcement-bg: var(--electric-teal);
+  --announcement-color: var(--bg-obsidian);
+}
