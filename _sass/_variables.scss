@@ -25,6 +25,7 @@
   --dark-poole-002: hsl(0, 0%, 85%);
 
   --dark-poole-link-color: rgba(255, 255, 255, 0.75);
+   --link-color: #00f2fe;
 
   --dark-poole-link-hover: #fff;
 
@@ -163,7 +164,7 @@
 
   --heading-color: var(--dark-poole-002);
 
-  --link-color: var(--dark-poole-link-color);
+  --link-color: var(--link-color);
 
   --link-hover-color: var(--dark-poole-link-hover);
 
