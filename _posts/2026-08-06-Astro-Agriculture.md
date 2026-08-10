@@ -32,14 +32,16 @@ I intentionally separated the logger from the web server so that the system woul
 ![instrumentation architecture]({{ "/assets/instrumentation_architecture.png" | relative_url }})
 
 ---
-The challenge of this project was integrating everything. It's not hard to read one sensor and publish it to the dashboard, but when there are many, it can be easy to get lost in the sauce.
+## Takeaways
+The challenge of this project was integrating everything. It's not hard to read one sensor and publish it to the dashboard, but when there are many, it becomes easy to get lost.
 Therefore, I learned the importance of creating an organized code base and committing to Git often.
 
 This was the first time I worked with a Raspberry Pi, and it was an overall smooth experience. It was cool being able to access the peripheral pins and still having a Linux OS.
 
 ---
 ## Final Results
-![Alt Text]({{ "/assets/webUIcamera.png" | relative_url }})
-![Alt Text]({{ "/assets/webUIcharts.png" | relative_url }})
-![Alt Text]({{ "/assets/webUIreadings.png" | relative_url }})
-![Alt Text]({{ "/assets/plantmodule.jpeg" | relative_url }})
+The final system collected timestamped sensor readings every 30 seconds and displayed both live values and historical trends through the dashboard.
+![Dashboard camera tab]({{ "/assets/webUIcamera.png" | relative_url }})
+![Dashboard charts tab]({{ "/assets/webUIcharts.png" | relative_url }})
+![Dashboard readings tab]({{ "/assets/webUIreadings.png" | relative_url }})
+![Plant growth module]({{ "/assets/plantmodule.jpeg" | relative_url }})
