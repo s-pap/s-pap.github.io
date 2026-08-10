@@ -28,4 +28,4 @@ This was the first time I worked with a Raspberry Pi, and it was an overall smoo
 ![Alt Text]({{ "/assets/webUIcamera.png" | relative_url }})
 ![Alt Text]({{ "/assets/webUIcharts.png" | relative_url }})
 ![Alt Text]({{ "/assets/webUIreadings.png" | relative_url }})
-![Alt Text]({{ "/assets/plantmodule.png" | relative_url }})
+![Alt Text]({{ "/assets/plantmodule.jpeg" | relative_url }})
